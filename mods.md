@@ -1,0 +1,10 @@
+- **[x] Science!** `xScience vV5.17`
+- **BetterBurnTime** `BetterBurnTime 1.6.1`
+- **BetterTimeWarpContinued** `BetterTimeWarpCont 2.3.10.1`
+- **ClickThrough Blocker** `ClickThroughBlocker 0.1.6.7`
+- **Kerbal Alarm Clock** `KerbalAlarmClock v3.9.1.0`
+- **Kerbal Engineer Redux** `KerbalEngineerRedux 1.1.5.3`
+- **Precise Maneuver** `PreciseManeuver 2:2.4.1`
+- **RCS Build Aid Continued** `RCSBuildAidCont 9.9.7.2`
+- **Toolbar Controller** `ToolbarController 1:0.1.6.14`
+- **TriggerAu Flags** `TriggerAu-Flags v2.9.3.0`
